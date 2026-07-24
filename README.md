@@ -39,22 +39,6 @@
 
 <hr/>
 
-<h2>🧭 What I work on</h2>
-
-<ul>
-  <li>Cloud-native backend platforms and integration layers (API contracts, resilience, failure handling)</li>
-  <li>Event-driven systems (Kafka) and production reliability</li>
-  <li>Tech leadership: delivery execution, onboarding, performance feedback, engineering standards</li>
-</ul>
-
-<hr/>
-
-<h2>🤝 Let's connect</h2>
-
-<p>
-  If you want to talk backend architecture, integrations, or platform reliability, feel free to reach out on LinkedIn.
-</p>
-
 <p align="center">
   <sub>Preference: boring systems that behave predictably in production.</sub>
 </p>
